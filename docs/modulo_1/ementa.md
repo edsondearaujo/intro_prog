@@ -6,3 +6,6 @@
 - Conversão entre tipos de variáveis (teoria e prática)
 - Operadores aritméticos (teoria e prática)
 - Precedência de operadores (prática)
+- Operadores de comparação (teoria)
+- Controle de decisão
+- Função Math

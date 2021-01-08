@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lógica de programação</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Lógica de programação com javascript.</h1>
+
+        <h1>Controle de decisão: If e ELSE</h1>
+        <script>
+            var jogador_1 = prompt("JOGADOR 1: Digite um número.");
+            jogador_1 = parseInt(jogador_1);
+
+            //Outra forma de declarar a variável, já fazendo a trasnformação para INT.
+            var jogador_2 = parseInt(prompt("JOGADOR 2: Digite um número."));
+
+            if(jogador_1 == jogador_2){
+                alert("Vocês empataram!")
+            } else{
+                var num_sorteado = parseInt(Math.random() * 2);
+                if(num_sorteado === 0){
+                    if (jogador_1 < jogador_2) {
+                        alert("Jogador 1 venceu.")
+                    } else {
+                        alert("Jogador 2 venceu.")
+                    }
+                } else{
+                    if (jogador_1 > jogador_2) {
+                        alert("Jogador 1 venceu.")
+                    } else {
+                        alert("Jogador 2 venceu.")
+                    }  
+                }
+            }
+        </script>
+    </body>
+</html>

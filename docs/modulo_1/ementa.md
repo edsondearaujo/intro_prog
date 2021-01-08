@@ -9,3 +9,4 @@
 - Operadores de comparação (teoria)
 - Controle de decisão
 - Função Math
+- Operadores lógicos (tabela verdade)

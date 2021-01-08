@@ -8,5 +8,7 @@
 - Precedência de operadores (prática)
 - Operadores de comparação (teoria)
 - Controle de decisão
+- Controle de decisão (switch case)
 - Função Math
 - Operadores lógicos (tabela verdade)
+- 

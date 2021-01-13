@@ -1,14 +1,15 @@
 # Ementa
 
 ## Seção 1: Introdução
-- Curso básico de lógica e programação de computadores com JavaScript
+- Apresentação: Curso básico de lógica e programação de computadores com JavaScript
 
 ## Seção 2: Configuração do ambiente de desenvolvimento
 - Instalação do VSCode (Linux)
 - Instalação do VSCode (Windows)
 
 ## Seção 3: Algoritmo
-- Lógica de programação e algoritmo (teoria)
+- Lógica computacional (teoria)
+- Conceito de algoritmo (teoria)
 
 ## Seção 4: Variáveis, Operadores
 - Variáveis e seus tipos (teoria)

@@ -1,2 +1,4 @@
-# Sobre
-O objetivo desse repositório é para simples organização do curso, lógica de programação com JavaScript, que será desenvolvido para a Startup Shimejito.
+<<<<<<< HEAD
+# Programação básica
+Introdução a programação de computadores com HTML e CSS.
+

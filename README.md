@@ -1,2 +1,4 @@
-# intro_prog
-Introdução a programação de computadores
+# Programação básica
+Introdução a programação de computadores com HTML e CSS.
+
+
